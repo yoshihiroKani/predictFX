@@ -1,6 +1,6 @@
 # predictFX
 
-### installation TA-Lib on GoogleColaborator
+## installation TA-Lib on GoogleColaborator
 ```
 !wget http://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-src.tar.gz
 !tar -xzvf ta-lib-0.4.0-src.tar.gz
@@ -13,5 +13,5 @@ import talib
 ```
 ref: https://stackoverflow.com/questions/49648391/how-to-install-ta-lib-in-google-colab
 
-### download links
+## download links
 past fx data: https://stooq.com
