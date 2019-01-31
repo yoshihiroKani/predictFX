@@ -11,3 +11,6 @@
 !pip install Ta-Lib
 import talib
 ```
+
+### download links
+past fx data: https://stooq.com
